@@ -1,0 +1,7 @@
+2023-08-04 10:00:01 - INFO - This is an informational message.
+2023-08-04 10:01:15 - ERROR - An error occurred during the process.
+2023-08-04 10:02:30 - WARNING - Warning: Disk space is running low.
+2023-08-04 10:03:45 - INFO - Task completed successfully.
+2023-08-04 10:04:50 - DEBUG - Debugging information: line 34.
+2023-08-04 10:06:00 - ERROR - Another error in the system.
+2023-08-04 10:07:10 - INFO - The process started.
