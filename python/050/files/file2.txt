@@ -1,0 +1,7 @@
+Here is another sample text file.
+It also contains lines of text.
+Some lines have the keyword we are looking for.
+This line contains the keyword.
+No keyword in this line.
+Keyword is present in this line.
+Another line without the keyword.
