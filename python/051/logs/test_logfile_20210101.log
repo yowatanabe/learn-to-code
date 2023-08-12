@@ -1,0 +1,6 @@
+2021-01-01 10:00:01 - INFO - This is an informational message.
+2021-03-01 10:01:15 - ERROR - An error occurred during the process.
+2021-05-01 10:02:30 - WARNING - Warning: Disk space is running low.
+2021-07-01 10:03:45 - INFO - Task completed successfully.
+2021-09-01 10:04:50 - DEBUG - Debugging information: line 34.
+2021-11-01 10:06:00 - ERROR - Another error in the system.
