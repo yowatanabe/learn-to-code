@@ -1,0 +1,3 @@
+Python is a popular programming language.
+It is used for various tasks including automation.
+DevOps engineers often use Python for automation scripts.
