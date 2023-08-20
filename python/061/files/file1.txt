@@ -1,0 +1,5 @@
+This is a sample text file.
+It contains some date and time information:
+2023-07-25 09:30:00
+2023-07-26 14:45:30
+This file also has some other content.
