@@ -1,0 +1,3 @@
+This is a third text file.
+It has no date or time information.
+Just plain text.
