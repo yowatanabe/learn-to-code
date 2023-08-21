@@ -1,0 +1,6 @@
+This is a sample log file.
+[ERROR] Something went wrong at 2023-07-25 09:30:00.
+[INFO] This is an informational message.
+[ERROR] Another error occurred at 2023-07-26 14:45:30.
+[ERROR] Yet another error at 2023-07-27 18:20:15.
+[DEBUG] Debug messages are also present.
