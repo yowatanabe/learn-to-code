@@ -1,0 +1,7 @@
+This is another log file.
+It contains a few errors:
+Error: Unable to connect to the server.
+[ERROR] A critical error at 2023-07-24 18:15:45.
+[WARNING] A warning message here.
+Error: Disk space is running low.
+[ERROR] An error at 2023-07-28 10:00:15.
