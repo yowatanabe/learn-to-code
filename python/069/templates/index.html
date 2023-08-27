@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <title>CPU and Memory Usage</title>
+  </head>
+  <body>
+    <h1>CPU and Memory Usage</h1>
+    <p>CPU Usage: {{ cpu_percent }}%</p>
+    <p>Memory Usage: {{ mem_percent }}%</p>
+    {% if message is not none %}
+      <p>Message: {{ message }}</p>
+    {% endif %}
+  </body>
+</html>
