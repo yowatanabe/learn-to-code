@@ -1,0 +1,8 @@
+# キー名が誤っています（database_url の代わりに db_url）
+db_url: 12345
+
+# api_key の値が整数型ですが、文字列が必要です
+api_key: 987654
+
+# debug_mode の値が文字列ですが、真偽値が必要です
+debug_mode: "true"
