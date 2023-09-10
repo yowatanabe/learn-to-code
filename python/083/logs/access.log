@@ -1,0 +1,5 @@
+GET /path?example_param=value1 HTTP/1.1 200
+GET /path?example_param=value2 HTTP/1.1 404
+GET /path?example_param=value3 HTTP/1.1 200
+GET /path?example_param=value4 HTTP/1.1 500
+GET /path?example_param=value5 HTTP/1.1 200
