@@ -1,0 +1,6 @@
+[2023-09-10 10:00:00] INFO: This is an information message.
+[2023-09-10 10:01:00] ERROR: This is an error message.
+[2023-09-10 10:02:00] INFO: Another informational message.
+[2023-09-10 10:03:00] ERROR: Another error message.
+[2023-09-10 10:04:00] DEBUG: Debugging information.
+[2023-09-11 10:03:00] ERROR: Another error message.
