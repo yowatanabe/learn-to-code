@@ -1,0 +1,4 @@
+This is the content of data.txt.
+It has multiple lines.
+And some text data.
+For demonstration purpose.
