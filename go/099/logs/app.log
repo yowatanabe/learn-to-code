@@ -1,0 +1,5 @@
+INFO: Application started
+ERROR: Database connection failed
+WARNING: Low disk space
+ERROR: Invalid input received
+INFO: Application stopped
