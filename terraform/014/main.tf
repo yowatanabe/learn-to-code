@@ -1,0 +1,13 @@
+provider "aws" {
+  region = "ap-northeast-1"
+}
+
+module "s3" {
+  source              = "./modules/s3"
+  lambda_function_arn = module.lambda.lambda_function_arn
+}
+
+module "lambda" {
+  source     = "./modules/lambda"
+  bucket_arn = module.s3.bucket_arn
+}
