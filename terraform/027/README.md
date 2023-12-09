@@ -1,4 +1,4 @@
-# No.026
+# No.027
 
 問題: AWSのAmazon RDS（Relational Database Service）をTerraformで構築します。MySQLデータベースを作成し、データベースにアクセスするためのセキュリティグループを設定してください。また、DBインスタンスに適切なパラメータを設定してください。
 
