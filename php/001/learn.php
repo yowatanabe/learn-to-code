@@ -6,5 +6,5 @@ $name = trim(fgets(STDIN));
 if (!empty($name)) {
     echo "Hello, $name!\n";
 } else {
-    echo "名前が入力されていません";
+    echo "名前が入力されていません\n";
 }
