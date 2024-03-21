@@ -1,0 +1,4 @@
+2023-03-22 12:00:00 Info: System startup
+2023-03-22 12:01:15 Warning: Low disk space
+2023-03-22 12:02:30 Error: Failed to connect to database
+2023-03-22 12:03:45 Info: User login successful
