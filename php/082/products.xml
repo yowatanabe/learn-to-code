@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<products>
+    <product>
+        <name>テレビ</name>
+        <price>30000</price>
+    </product>
+    <product>
+        <name>冷蔵庫</name>
+        <price>50000</price>
+    </product>
+    <product>
+        <name>洗濯機</name>
+        <price>25000</price>
+    </product>
+</products>
