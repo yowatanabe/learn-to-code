@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<users>
+    <user>
+        <name>User1</name>
+        <age>30</age>
+        <job>Developer</job>
+    </user>
+    <user>
+        <name>User2</name>
+        <age>25</age>
+        <job>Designer</job>
+    </user>
+</users>
