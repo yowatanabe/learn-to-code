@@ -16,7 +16,6 @@ CREATE TABLE
         DepartmentName VARCHAR(50)
     );
 
--- Employeesテーブルの作成
 CREATE TABLE
     Employees (
         EmployeeID INT PRIMARY KEY,
