@@ -14,6 +14,7 @@ docker image pull mysql:latest
 cd 番号/
 docker run --rm --name mysql -v `pwd`:`pwd` -w `pwd` -it -e MYSQL_ALLOW_EMPTY_PASSWORD=yes -d mysql:latest
 docker exec -it mysql mysql -u root
+source init.sql
 ```
 
 ### 課題の回答のSQLを実行する
