@@ -1,0 +1,37 @@
+-- データベースの作成
+DROP DATABASE IF EXISTS learn_to_code;
+
+CREATE DATABASE learn_to_code;
+
+-- データベースの選択
+USE learn_to_code;
+
+-- テーブルの作成
+CREATE TABLE
+  Products (
+    ProductID INT PRIMARY KEY,
+    ProductName VARCHAR(100),
+    Stock INT CHECK (Stock >= 0)
+  );
+
+CREATE TABLE
+  Orders (
+    OrderID INT PRIMARY KEY,
+    ProductID INT,
+    Quantity INT,
+    OrderDate DATE,
+    FOREIGN KEY (ProductID) REFERENCES Products (ProductID)
+  );
+
+-- 初期データ挿入
+INSERT INTO
+  Products (ProductID, ProductName, Stock)
+VALUES
+  (1, 'Smartphone', 20),
+  (2, 'Laptop', 15),
+  (3, 'Headphones', 30);
+
+INSERT INTO
+  Orders (OrderID, ProductID, Quantity, OrderDate)
+VALUES
+  (1001, 1, 2, '2024-10-05');
