@@ -1,4 +1,4 @@
-# No.121
+# No.122
 
 Goの `net/http` と `gorilla/mux` を使用したルーティング付きWebサーバーを作成する。
 
