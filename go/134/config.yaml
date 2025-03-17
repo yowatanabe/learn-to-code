@@ -1,0 +1,6 @@
+app:
+  name: "MyGoApp"
+  mode: "development"  # "production" に変更可能
+server:
+  port: 8080
+  loglevel: "info"
